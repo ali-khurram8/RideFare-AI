@@ -54,7 +54,7 @@ This generates the four `.pkl` files. Pre-trained models are already included in
 **Start the server:**
 
 ```bash
-python "app (1).py"
+python "app.py"
 ```
 
 Open `http://localhost:5000` in your browser.
