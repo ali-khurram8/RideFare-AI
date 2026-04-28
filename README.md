@@ -24,7 +24,7 @@ Random Forest is used as the default model.
 ```
 Ride-Fare-AI/
 ├── train_model.py              # Generates dataset and trains all three models
-├── app.py                  # Flask API server
+├── app.py                      # Flask API server
 ├── templates/
 │   └── uber_trip_cost_predictor.html  # Single-page frontend
 ├── random_forest_model.pkl     # Trained Random Forest pipeline
